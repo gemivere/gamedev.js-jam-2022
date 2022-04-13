@@ -23,6 +23,12 @@ let Menu = new Phaser.Class({
     },
 
     // ANCHOR Menu functions
+
+
+    // ANCHOR update
+    update: function() {
+        
+    }
 })
 
 export default Menu

@@ -23,6 +23,12 @@ let Game = new Phaser.Class({
     },
 
     // ANCHOR Game functions
+
+
+    // ANCHOR update
+    update: function() {
+        
+    }
 })
 
 export default Game
