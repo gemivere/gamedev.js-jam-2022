@@ -1,6 +1,6 @@
 import Phaser from 'phaser'
 
-let Game = new Phaser.Class({
+export let Game = new Phaser.Class({
     Extends: Phaser.Scene,
 
     initialize:
@@ -30,5 +30,3 @@ let Game = new Phaser.Class({
         
     }
 })
-
-export default Game
